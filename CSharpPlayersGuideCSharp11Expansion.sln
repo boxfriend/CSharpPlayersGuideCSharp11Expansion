@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMap", "TheMap\TheMap.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremixedPotions", "PremixedPotions\PremixedPotions.csproj", "{719BE7C9-D61F-4FDD-8243-AAC42F491A35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlastDamage", "BlastDamage\BlastDamage.csproj", "{ACA525EC-8456-4DF3-9449-E66AC9087214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{719BE7C9-D61F-4FDD-8243-AAC42F491A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{719BE7C9-D61F-4FDD-8243-AAC42F491A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{719BE7C9-D61F-4FDD-8243-AAC42F491A35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA525EC-8456-4DF3-9449-E66AC9087214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA525EC-8456-4DF3-9449-E66AC9087214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA525EC-8456-4DF3-9449-E66AC9087214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA525EC-8456-4DF3-9449-E66AC9087214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
