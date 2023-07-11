@@ -1,4 +1,4 @@
-# CSharpPlayersGuideCSharp11Expansion
+# C# Player's Guide C#11 Expansion
 
 ###### These are my solutions to the challenges in the first expansion of the book titled "C# 11 Expansion"
 Info about the book including where to purchase can be found [here](https://csharpplayersguide.com/)
